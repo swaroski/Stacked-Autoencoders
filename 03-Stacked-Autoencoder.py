@@ -211,4 +211,3 @@ for i in range(num_test_images):
     a[1][i].imshow(np.reshape(results[i], (28, 28)))
 
 
-# # Great Job!
